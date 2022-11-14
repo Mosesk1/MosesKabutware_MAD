@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="greeting"> Hello </string>
+    <string name="ball">Basket ball</string>
+    <string name="button">Say Hi</string>
+    <string name="Name">Enter your full name</string>
+<!--    Only static-->
+<!--    <string time="time">The time is:</string>-->
+</resources>
