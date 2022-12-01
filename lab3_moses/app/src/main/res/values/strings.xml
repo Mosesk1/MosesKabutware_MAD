@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab3_moses</string>
+
+    <string name="readmsg">You should do</string>
+
+    <string name="addItem">Add Note</string>
+    <string name="itemTitle">Title</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="itemAdded">Note Added</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="delete">Delete Note?</string>
+    <string name="deleteItem">Item Deleted</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="drawer_botton">Drawer Button</string>
+</resources>
