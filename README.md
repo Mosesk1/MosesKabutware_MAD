@@ -22,4 +22,24 @@ Createted a to-do/Note taker list app in a new Android Studio project using Jetp
     string resources for any strings used
     custom theme
     custom launcher icons
+    
+    
+    #Third Commit
+    
+    Created an Android Studio project using Jetpack Compose and the Navigation architecture component 
+    which had a bottom navigation
+    
+     3 items with  an icon and text
+     showing different screen
+     used the Scaffold component for the bottom bar
+     handled duplicate back stack entries
+     well organized and used string resources for any strings, used custom theme and custom launcher icons
+     
+     
+     
+     References
+     https://developer.android.com/jetpack/compose/navigation
+     https://www.youtube.com/watch?v=NbFp_GmDeyA
+     https://www.youtube.com/watch?v=gg-KBGH9T8s
+     
 
